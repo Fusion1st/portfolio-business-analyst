@@ -1,1 +1,97 @@
-# portfolio-business-analyst
+# # 💼 Портфолио бизнес-аналитика — Никита Яцинович
+
+**Senior Business Analyst | AI/ML и Blockchain системы**
+
+Добро пожаловать!  
+В этом репозитории представлено моё профессиональное портфолио, включающее два обобщённых кейса из опыта работы бизнес-аналитиком в IT.  
+PDF-документ демонстрирует подход к анализу, системное мышление и умение описывать сложные решения в структурированной форме.
+
+⭐️ _Если вы рекрутер или технический специалист — начните с PDF-портфолио. Оно демонстрирует аналитический стиль, мышление и структуру работы с требованиями._
+
+---
+
+## 📘 Портфолио 
+
+- [📄Открыть PDF]](Business analyst portfolio.pdf)
+- [⚙️ Навыки и инструменты](./docs/Навыки_и_инструменты.md)
+
+---
+
+## 🧠 О себе
+
+- 5+ лет опыта в IT-проектах (FinTech, AI/ML, Blockchain, E-commerceб healthcare, ERP)
+- Опыт полного цикла аналитики: от discovery и моделирования процессов до системного дизайна и поддержки релизов
+- Работаю на стыке **Business & System Analysis**: формулирую требования, проектирую API, прорабатываю архитектуру данных и интеграции
+- Веду кросс-функциональные команды и коммуникацию с техническими лидами, PM и заказчиками  
+
+---
+
+## 🚀 Ключевые проекты
+
+**Проект 1.** Платформа по переработке вторсырья с блокчейн-вознаграждениями  
+→ Мобильное приложение с интеграцией с аппаратными устройствами, системой токеномики и API стороннего поставщика.  
+
+**Проект 2.** Text-to-SQL Analytics Platform  
+→ Система, преобразующая запросы на естественном языке в SQL для корпоративного DWH. Архитектура с гибридной обработкой (LLM + правила).
+
+Оба проекта представлены в PDF-портфолио и включают диаграммы BPMN, ERD, Sequence, User Stories, Acceptance Criteria и API-спецификации.
+
+---
+
+## 🧩 Навыки и инструменты
+
+**Requirements:** User Stories, Use cases, Gherkin, BPMN, UML, Acceptance Criteria, API-спецификации  
+**Data:** ERD, проектирование баз данных, логика синхронизации в реальном времени, асинхронное взаимодействие  
+**Integration:** REST API, gRPC, интеграция блокчейна (XPRL), API стороннего поставщика RVM  
+**Mobile:** React Native, геолокация, генерация QR-кодов и штрих-кодов  
+**Domain:** Токеномика, предотвращение мошенничества, Hardware-интеграции  
+**Tools:** Jira, Confluence, Figma, Postman, Miro, Swagger, Camunda, Apache Kafka  
+
+---
+
+### ⚙️ Requirements Engineering
+- User Stories, Use cases, Gherkin, Acceptance Criteria  
+- Sequence Diagrams (PlantUML), BPMN 2.0  
+- API Specifications (OpenAPI 3.0), JSON Schema Design  
+
+### 🗄 Data Modeling
+- ERD Design (Neo4j, PostgreSQL)  
+- Graph Database Modeling  
+- Data Vault Architecture  
+- Semantic Layer Design  
+
+### 🤖 AI/ML Systems
+- Hybrid Search (BM25 + Vector Embeddings)  
+- Confidence Scoring & Thresholds  
+- LLM Integration (Fallback Strategy)  
+- Agent Design & Prompt Engineering  
+
+### 🔌 Integration
+- REST API & gRPC Design  
+- ETL Pipeline Requirements  
+- Data Warehouse (Snowflake) 
+
+### 🧰 Инструменты
+- Jira, Confluence, Notion  
+- PlantUML, Draw.io, Miro  
+- Postman, Swagger/OpenAPI  
+- Neo4j, PostgreSQL, Langsmith  
+
+### 🧭 Методологии
+- Agile / Scrum  
+- Contract-Driven Development  
+- Domain-Driven Design  
+- Управление стейкхолдерами и кросс-культурная коммуникация  
+
+---
+
+## 🔒 Уведомление о конфиденциальности
+
+Данное портфолио содержит обобщённые и обезличенные материалы.  
+Все примеры, API, диаграммы и SQL-запросы приведены исключительно в демонстрационных целях и не отражают реальную реализацию в продуктах заказчиков.
+
+---
+
+## 📫 Контакты
+- **Email:** nikita.yatsinovich@mail.ru 
+- **Telegram:** @Fusion1st
