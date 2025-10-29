@@ -1,4 +1,4 @@
-# # 💼 Портфолио бизнес-аналитика — Никита Яцинович
+# 💼 Портфолио бизнес-аналитика — Никита Яцинович
 
 **Senior Business Analyst | AI/ML и Blockchain системы**
 
@@ -12,7 +12,7 @@ PDF-документ демонстрирует подход к анализу, 
 
 ## 📘 Портфолио 
 
-- [📄Открыть PDF]](Business analyst portfolio.pdf)
+- [📄Открыть PDF]](./docs/Business analyst portfolio.pdf)
 - [⚙️ Навыки и инструменты](./docs/Навыки_и_инструменты.md)
 
 ---
@@ -42,7 +42,7 @@ PDF-документ демонстрирует подход к анализу, 
 
 **Requirements:** User Stories, Use cases, Gherkin, BPMN, UML, Acceptance Criteria, API-спецификации  
 **Data:** ERD, проектирование баз данных, логика синхронизации в реальном времени, асинхронное взаимодействие  
-**Integration:** REST API, gRPC, интеграция блокчейна (XPRL), API стороннего поставщика RVM  
+**Integration:** REST API, gRPC, интеграция блокчейна (XPRL), API стороннего поставщика  
 **Mobile:** React Native, геолокация, генерация QR-кодов и штрих-кодов  
 **Domain:** Токеномика, предотвращение мошенничества, Hardware-интеграции  
 **Tools:** Jira, Confluence, Figma, Postman, Miro, Swagger, Camunda, Apache Kafka  
