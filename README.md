@@ -11,13 +11,15 @@
 
 ## 📘 Портфолио 
 
-[📄 Открыть портфолио (PDF)](./docs/portfolio.pdf)
+[📄 Открыть портфолио (PDF)]((https://github.com/Fusion1st/portfolio-business-analyst/blob/main/portfolio.pdf))
+
 Содержание:
 
 **Проект 1**: Блокчейн-платформа для рециклинга (Mobile + Hardware + Blockchain)
-**Проект 2**: Text-to-SQL Analytics Platform (AI/ML + Enterprise Data)
+**Проект 2**: Text-to-SQL Analytics Platform (AI/ML + Enterprise Data) 
 
-Портфолио включает: BPMN-диаграммы, ERD, Sequence diagrams, User Stories с Acceptance Criteria, API-спецификации и решение бизнес- и технических проблем.
+Портфолио включает: BPMN-диаграммы, ERD, Sequence диаграмма, User Stories с Acceptance Criteria, API-спецификации и решение бизнес- и технических проблем.
+
 ---
 
 ## 🧠 О себе
@@ -31,8 +33,6 @@ FinTech • AI/ML • Blockchain • E-commerce • Healthcare • Insurance •
 
 Подход:
 Детальная проработка требований → Снижение рисков → Согласованность между бизнесом и разработкой
-
----
 
 ---
 
