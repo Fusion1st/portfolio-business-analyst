@@ -45,7 +45,7 @@
 ### 🗄 Данные и аналитика
 - Data Modeling: ERD, графовые базы (Neo4j), PostgreSQL, Data Vault  
 - ETL-процессы, Data Quality, миграция данных  
-- SQL, Snowflake, Fivetran  
+- SQL, MongoDB, Snowflake, Fivetran  
 - Продуктовая аналитика: MixPanel, Amplitude, Google Analytics  
 
 ### 🔌 Интеграции и архитектура
