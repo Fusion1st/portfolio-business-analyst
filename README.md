@@ -12,7 +12,7 @@ PDF-документ демонстрирует подход к анализу, 
 
 ## 📘 Портфолио 
 
-- [📄Открыть PDF]](./docs/Business analyst portfolio.pdf)
+- [📄Открыть PDF]](./docs/Business analyst portfolio.pdf) 
 - [⚙️ Навыки и инструменты](./docs/Навыки_и_инструменты.md)
 
 ---
