@@ -1,10 +1,9 @@
 # 💼 Портфолио бизнес-аналитика — Никита Яцинович
 
-**Senior Business Analyst | AI/ML и Blockchain системы**
+**Senior Business Analyst**
 
-Добро пожаловать!  
-В этом репозитории представлено моё профессиональное портфолио, включающее два обобщённых кейса из опыта работы бизнес-аналитиком в IT.  
-PDF-документ демонстрирует подход к анализу, системное мышление и умение описывать сложные решения в структурированной форме.
+Добро пожаловать в моё профессиональное портфолио!
+Здесь представлены два детальных кейса из практики работы в FinTech, AI/ML и Blockchain-проектах. PDF-документ демонстрирует системный подход к анализу, проектированию архитектуры и документированию требований.
 
 ⭐️ _Если вы рекрутер или технический специалист — начните с PDF-портфолио. Оно демонстрирует аналитический стиль, мышление и структуру работы с требованиями._
 
@@ -12,76 +11,71 @@ PDF-документ демонстрирует подход к анализу, 
 
 ## 📘 Портфолио 
 
-- [📄Открыть PDF]](./docs/Business analyst portfolio.pdf) 
-- [⚙️ Навыки и инструменты](./docs/Навыки_и_инструменты.md)
+[📄 Открыть портфолио (PDF)](./docs/portfolio.pdf)
+Содержание:
 
+**Проект 1**: Блокчейн-платформа для рециклинга (Mobile + Hardware + Blockchain)
+**Проект 2**: Text-to-SQL Analytics Platform (AI/ML + Enterprise Data)
+
+Портфолио включает: BPMN-диаграммы, ERD, Sequence diagrams, User Stories с Acceptance Criteria, API-спецификации и решение бизнес- и технических проблем.
 ---
 
 ## 🧠 О себе
 
-- 5+ лет опыта в IT-проектах (FinTech, AI/ML, Blockchain, E-commerceб healthcare, ERP)
-- Опыт полного цикла аналитики: от discovery и моделирования процессов до системного дизайна и поддержки релизов
-- Работаю на стыке **Business & System Analysis**: формулирую требования, проектирую API, прорабатываю архитектуру данных и интеграции
-- Веду кросс-функциональные команды и коммуникацию с техническими лидами, PM и заказчиками  
+Бизнес- и системный аналитик с опытом 5+ лет в IT-проектах.
+
+Работаю на стыке бизнеса и технологий: трансформирую требования стейкхолдеров в системные спецификации, проектирую архитектуру данных и API, моделирую процессы (BPMN/UML). Провожу проекты от discovery до production.
+
+Домены:
+FinTech • AI/ML • Blockchain • E-commerce • Healthcare • Insurance • Real Estate • ERP
+
+Подход:
+Детальная проработка требований → Снижение рисков → Согласованность между бизнесом и разработкой
 
 ---
-
-## 🚀 Ключевые проекты
-
-**Проект 1.** Платформа по переработке вторсырья с блокчейн-вознаграждениями  
-→ Мобильное приложение с интеграцией с аппаратными устройствами, системой токеномики и API стороннего поставщика.  
-
-**Проект 2.** Text-to-SQL Analytics Platform  
-→ Система, преобразующая запросы на естественном языке в SQL для корпоративного DWH. Архитектура с гибридной обработкой (LLM + правила).
-
-Оба проекта представлены в PDF-портфолио и включают диаграммы BPMN, ERD, Sequence, User Stories, Acceptance Criteria и API-спецификации.
 
 ---
 
 ## 🧩 Навыки и инструменты
+📝 **Requirements Engineering**
 
-**Requirements:** User Stories, Use cases, Gherkin, BPMN, UML, Acceptance Criteria, API-спецификации  
-**Data:** ERD, проектирование баз данных, логика синхронизации в реальном времени, асинхронное взаимодействие  
-**Integration:** REST API, gRPC, интеграция блокчейна (XPRL), API стороннего поставщика  
-**Mobile:** React Native, геолокация, генерация QR-кодов и штрих-кодов  
-**Domain:** Токеномика, предотвращение мошенничества, Hardware-интеграции  
-**Tools:** Jira, Confluence, Figma, Postman, Miro, Swagger, Camunda, Apache Kafka  
+User Stories, Use Cases, Acceptance Criteria, Gherkin
+BPMN 2.0, UML (Sequence, Activity, Class diagrams)
+API Specifications (OpenAPI 3.0, REST, gRPC)
+Contract-Driven Development
 
----
+🗄 **Данные и аналитика**
 
-### ⚙️ Requirements Engineering
-- User Stories, Use cases, Gherkin, Acceptance Criteria  
-- Sequence Diagrams (PlantUML), BPMN 2.0  
-- API Specifications (OpenAPI 3.0), JSON Schema Design  
+Data Modeling: ERD, графовые базы (Neo4j), PostgreSQL, ETL-процессы, Data Quality, Data Vault
+Инструменты работы с данными: SQL, Snowflake, Fivetran
+Продуктовая аналитика: MixPanel, Amplitude, Google Analytics
 
-### 🗄 Data Modeling
-- ERD Design (Neo4j, PostgreSQL)  
-- Graph Database Modeling  
-- Data Vault Architecture  
-- Semantic Layer Design  
+🔌 **Интеграции и архитектура**
 
-### 🤖 AI/ML Systems
-- Hybrid Search (BM25 + Vector Embeddings)  
-- Confidence Scoring & Thresholds  
-- LLM Integration (Fallback Strategy)  
-- Agent Design & Prompt Engineering  
+REST API, SOAP, gRPC дизайн
+Event-driven архитектура: Apache Kafka
+Enterprise-интеграции: ERP, CRM, DWH, LLM-системы
+Платёжные шлюзы: Stripe, PayPal, Temenos
 
-### 🔌 Integration
-- REST API & gRPC Design  
-- ETL Pipeline Requirements  
-- Data Warehouse (Snowflake) 
+🤖 **AI/ML Systems**
 
-### 🧰 Инструменты
-- Jira, Confluence, Notion  
-- PlantUML, Draw.io, Miro  
-- Postman, Swagger/OpenAPI  
-- Neo4j, PostgreSQL, Langsmith  
+Hybrid Search (BM25 + Vector Embeddings)
+LLM интерграция: Prompt Engineering, Confidence Scoring, агенты (Langsmith)
+Rules-first архитектура с fallback на генеративные модели
 
-### 🧭 Методологии
-- Agile / Scrum  
-- Contract-Driven Development  
-- Domain-Driven Design  
-- Управление стейкхолдерами и кросс-культурная коммуникация  
+🧰 **Инструменты**
+
+Управление проектами: Jira, Confluence, Notion
+Моделирование: Miro, Draw.io, Camunda, PlantUML
+API: Postman, Swagger, SoapUI
+Прототипирование: Figma, Axure RP, Balsamiq
+
+🧭 **Методологии**
+
+Agile / Scrum (PSPO I сертификация)
+Domain-Driven Design (DDD)
+Управление стейкхолдерами
+Кросс-культурная коммуникация (работал с командами в 10+ странах) 
 
 ---
 
@@ -94,4 +88,6 @@ PDF-документ демонстрирует подход к анализу, 
 
 ## 📫 Контакты
 - **Email:** nikita.yatsinovich@mail.ru 
-- **Telegram:** @Fusion1st
+- **Telegram:** @YatNick
+
+  Спасибо за внимание! Буду рад обсудить возможности сотрудничества.
