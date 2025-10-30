@@ -11,7 +11,7 @@
 
 ## 📘 Портфолио 
 
-[📄 Открыть портфолио (PDF)]((https://github.com/Fusion1st/portfolio-business-analyst/blob/main/portfolio.pdf))
+[📄 Открыть портфолио (PDF)]((https://github.com/Fusion1st/portfolio-business-analyst/blob/main/portfolio.pdf)
 
 Содержание:
 
