@@ -36,7 +36,7 @@
 
 ## 🧩 Навыки и инструменты
 
-### 📝 Requirements Engineering
+### 📝 Управление требованиями и спецификациями
 - User Stories, Use Cases, Acceptance Criteria, Gherkin  
 - BPMN 2.0, UML (Sequence, Activity, Class diagrams)  
 - API Specifications (OpenAPI 3.0, REST, gRPC)  
